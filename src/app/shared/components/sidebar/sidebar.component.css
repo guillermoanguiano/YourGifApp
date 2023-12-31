@@ -1,0 +1,9 @@
+#sidebar {
+  height: 100vh; /* TODO: Ajustar size para cuando cargan los gifs */
+  width: 250px;
+}
+
+.list-group-item {
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
